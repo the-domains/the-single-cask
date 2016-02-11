@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0
+color:
+  saturation: 0.5248951
+  lightness: 0.4547159
+  brandStrength: 0.6278673
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#9B7E30'
+    - '#808080'
+    - '#414141'
+  rhythmicContrast: 0.29443
+name: The Single Cask
